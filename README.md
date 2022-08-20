@@ -37,7 +37,7 @@ Below piece of code will let you get the number of outgoing edges( number of ext
 cout<<" No of outgoing edges"<<endl;
 for(int i=0;i<n;i++){
 	outgoing[i]=0;
-	for(int j=0;j<m;j++)
+	for(int j=0;j<m;j++) 
 	{
 		if(arr[j][i]==1){
 			outgoing[i]++;
