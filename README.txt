@@ -23,11 +23,11 @@ What is the percentage of page A been ranked on top!!!!? Or B or C or D !!!!?
 We can Draw a graph from the problem above.
 Here is an Adjecency Matrix of the Graph. (If you don,t know the Adjecency Matrix google it,  that,s very easy!!!  Research!!)
 
-  A B C D
-A 0 1 0 0
-B 1 0 0 0
-C 0 1 0 1
-D 0 0 1 0
+   A B C D
+ A 0 1 0 0
+ B 1 0 0 0
+ C 0 1 0 1
+ D 0 0 1 0
 
 NOW HERE ARE THE STEPS THAT WE NEED TO FOLLOW TO FIND PAGE RANK
 
